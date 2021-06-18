@@ -1,2 +1,6 @@
-# hellow-world
-starting on github
+#include<iostream>
+  using namespace std;
+  int main(){
+  cout<<"hello world"<<endl;
+  return 0;
+  }
